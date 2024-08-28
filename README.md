@@ -1,7 +1,10 @@
 ### Hi there!! I'm Lucas
 👨🏼‍🚀A baby DEV fascinated by the power that programming and codes bring to our world!
 <br>
+🧑‍💻Graduating in systems analysis and development at Fatec.
+<br>
 👨‍🎓Studying front end development, at <a href="https://rodolfomori.com.br/devclub/">DEV CLUB</a>.
+
 ##
 <h3>Some facts about me:</h3>
 🎶I like POP songs;
@@ -11,6 +14,8 @@
 📽Series and Movies;
 <br>
 🎉Have fun with my friends.
+<br> 
+
 
 
 <br>
