@@ -1,5 +1,5 @@
 ### Hi there!! I'm Lucas
-👨🏼‍🚀A baby DEV fascinated by the power that programming and codes bring to our world!
+👨🏼‍🚀A beginner DEV fascinated by the power that programming and codes bring to our world!
 <br>
 🧑‍💻Graduating in systems analysis and development at Fatec.
 <br>
